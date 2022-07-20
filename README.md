@@ -2,14 +2,14 @@
 
 ## Agenda
 
-* Introduction to C++17 and C++20, Hartmut Kaiser, 10 a.m. CT to 10:45 a.m CT, [Slides](introduction.pdf)
-* Q&A, 10:45 a.m CT to 11:00 a.m. CT
-* Break, 11:00 a.m CT to 11:10 a.m. CT
-* Introduction to asynchronous programming and the parallel algorithms, Patrick Diehl, 11:10 am. CT to 12 p.m CT, [Slides](/slides/part1.slides.html)
-* Lunch break, 12 p.m CT to 1 p.m CT 
-* [Exercise 1](https://github.com/shortcourse/USACM16-shortcourse/blob/main/exercise/Exercise1.ipynb), Parallel implementation of the 2D finite difference scheme, 1 p.m CT to 1:45 p.m CT
-* Break, 1:45 p.m CT to 2 p.m CT
-* Introduction to distributed programming, Steve Brandt, 2 p.m CT to 2:45 p.m CT
+* Introduction to C++17 and C++20, Hartmut Kaiser, 8 a.m. CT to 8:45 a.m CT, [Slides](introduction.pdf)
+* Q&A, 8:45 a.m CT to 9:00 a.m. CT
+* Break, 09:00 a.m CT to 09:10 a.m. CT
+* Introduction to asynchronous programming and the parallel algorithms, Patrick Diehl, 09:10 am. CT to 10 a.m CT, [Slides](/slides/part1.slides.html)
+* Coffee break, 10 a.m CT to 10:30 a.m CT 
+* [Exercise 1](https://github.com/shortcourse/USACM16-shortcourse/blob/main/exercise/Exercise1.ipynb), Parallel implementation of the 2D finite difference scheme, 10:30 a.m CT to 11:00 a.m CT
+* Break, 11:00 a.m CT to 11:10 a.m CT
+* Introduction to distributed programming, Steve Brandt, 11:00 a.m CT to 12:00 a.m CT
 
 ## Instructors 
 
