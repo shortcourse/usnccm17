@@ -1,4 +1,4 @@
-## SC16-001: Advanced Parallel Programming in C++
+## Advanced Parallel Programming in C++
 
 ## Agenda
 
